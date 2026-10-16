@@ -1,4 +1,4 @@
-# ![AmiAirPrint Prefs Icon](https://github.com/Andiweli/AmiAirprint/blob/main/images/prefsicon.png) AmiAirPrint
+# ![AmiAirPrint Prefs Icon](https://github.com/Andiweli/AmiAirprint/blob/main/images/prefsicon.png) AmiAirPrint (deprecated)
 
 ![AmigaOS](https://img.shields.io/badge/AmigaOS-3.0%2B-orange)
 ![Printing](https://img.shields.io/badge/Printing-AirPrint%20%2F%20IPP-blue)
